@@ -1,1 +1,1 @@
-# Wireless-Potentiostat
+# iMED Wireless Potentiostat
